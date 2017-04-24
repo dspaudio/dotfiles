@@ -45,7 +45,7 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Commit">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta c" />
   </action>
   <action id="CheckinProject" />
   <action id="CloseProject">
@@ -117,7 +117,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GitExtender.UpdateAll">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta a" />
   </action>
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -258,13 +258,13 @@
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta p" />
   </action>
   <action id="Vcs.Show.Log">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta l" />
   </action>
   <action id="Vcs.UpdateProject">
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta u" />
   </action>
   <action id="XDebugger.SetValue" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction">
