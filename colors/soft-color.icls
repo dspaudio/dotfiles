@@ -679,7 +679,6 @@
         <option name="FOREGROUND" value="bf616a" />
       </value>
     </option>
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
     <option name="GRADLE_CHANGE_CONFLICT">
       <value>
         <option name="FOREGROUND" value="db4233" />
@@ -13525,6 +13524,11 @@
     <option name="SQL_COLUMN">
       <value>
         <option name="FOREGROUND" value="a3be8c" />
+      </value>
+    </option>
+    <option name="SQL_DATABASE_OBJECT">
+      <value>
+        <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
     <option name="SQL_KEYWORD">

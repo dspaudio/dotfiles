@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="53a6ff" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isBoldTabs" value="true" />
     <option name="wallpaperSet" value="false" />
   </component>
 </application>
