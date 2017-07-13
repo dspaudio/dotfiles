@@ -1,6 +1,6 @@
 <keymap version="1" name="dspaudio" parent="Mac OS X 10.5+">
   <action id="$LRU">
-    <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta w" />
@@ -71,7 +71,7 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor LRU">
-    <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta w" />
@@ -222,9 +222,6 @@
   <action id="ResizeToolWindowUp" />
   <action id="RunJsbtTask">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta g" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
