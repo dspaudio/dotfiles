@@ -3,7 +3,7 @@
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isBoldTabs" value="true" />
-    <option name="wallpaperSet" value="false" />
+    <option name="wallpaper" value="" />
     <option name="statusBarTheme" value="false" />
   </component>
 </application>
