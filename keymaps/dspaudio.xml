@@ -175,6 +175,7 @@
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -215,7 +216,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="meta r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
   <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="shift alt r" />
