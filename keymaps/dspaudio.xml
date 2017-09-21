@@ -42,7 +42,6 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
