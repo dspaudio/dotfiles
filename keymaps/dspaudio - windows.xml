@@ -12,6 +12,9 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
