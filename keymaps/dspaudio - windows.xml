@@ -32,8 +32,18 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -43,6 +53,10 @@
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -84,6 +98,7 @@
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
   </action>
+  <action id="Vcs.Push" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
