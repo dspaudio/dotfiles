@@ -1,8 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="FONT_SCALE" value="1.25" />
+    <option name="LINE_SPACING" value="1.2" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -13,9 +13,5 @@
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
