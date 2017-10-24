@@ -47,6 +47,11 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
+  <action id="Laravel.ExtractPartialView" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
