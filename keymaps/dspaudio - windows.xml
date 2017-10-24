@@ -45,6 +45,10 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />
@@ -60,6 +64,7 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="ParameterInfo" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
