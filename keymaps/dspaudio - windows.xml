@@ -43,8 +43,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="EditorIndentSelection">
-    <keyboard-shortcut first-keystroke="tab" />
+  <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorJoinLines">
@@ -52,10 +51,6 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
-  </action>
-  <action id="EditorTab">
-    <keyboard-shortcut first-keystroke="tab" />
-    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
