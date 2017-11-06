@@ -107,6 +107,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />
@@ -123,6 +126,7 @@
   </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
+  <action id="Replace" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
