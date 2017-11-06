@@ -9,6 +9,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="48dcbeba-68a1-485c-8792-4326349646da" name="master.mediaon.co.kr" url="http://master.mediaon.co.kr">
+        <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/master.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
