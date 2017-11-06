@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a5bd34f-8a13-44f4-82f9-96ab1af8f30b" name="hotelrestaurant.co.kr" url="http://hotelrestaurant.co.kr">
+        <fileTransfer host="121.78.127.86" port="1229" rootFolder="/home/hotelrestaurant2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
