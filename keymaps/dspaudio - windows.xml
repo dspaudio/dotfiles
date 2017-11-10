@@ -52,7 +52,9 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorLookupUp" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -126,6 +128,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="MethodDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
