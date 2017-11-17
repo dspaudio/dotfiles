@@ -17,6 +17,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="2a1327fa-c88b-44c8-9dba-7e3e657589d0" name="isistg.mediaon.co.kr" url="http://isistg.mediaon.co.kr">
+        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/isistg.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
