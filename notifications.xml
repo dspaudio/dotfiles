@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Web Deployment: File Transfer" displayType="TOOL_WINDOW" />
-    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
-  </component>
-</application>
