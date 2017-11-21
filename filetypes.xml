@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="html" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
