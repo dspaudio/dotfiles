@@ -33,6 +33,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="1ecb739d-341e-4a71-b77c-5940a0776e37" name="mediaon_php56" url="http://demo56.mediaon.co.kr">
+        <fileTransfer host="121.78.127.126" port="1229" rootFolder="/home/demo56.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
