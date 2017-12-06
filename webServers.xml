@@ -49,6 +49,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="3062c14b-dca7-488d-b131-890dadd22faf" name="chuksannews.co.kr" url="http://chuksannews.co.kr">
+        <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/chuksannews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
