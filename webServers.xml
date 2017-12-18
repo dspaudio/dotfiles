@@ -57,6 +57,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="2b88b45d-7bd9-435d-a672-d4929710394a" name="ftnews.kr" url="http://ftnews.kr">
+        <fileTransfer host="121.78.127.48" port="1229" rootFolder="/home/tfnews2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
