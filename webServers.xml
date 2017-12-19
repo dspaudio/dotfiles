@@ -65,6 +65,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="0fdf25c7-4bc1-464a-9809-8a0ec4774cd4" name="kpoptimes.kr" url="http://kpoptimes.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/gangwon.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
