@@ -89,6 +89,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="4a38fd79-91b6-4bf3-95ec-98435d382d0c" name="gyeseong1882.es.kr" url="http://gyeseong1882.es.kr">
+        <fileTransfer host="121.78.127.170" port="1229" rootFolder="/home/gyeseong/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
