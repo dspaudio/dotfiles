@@ -97,6 +97,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="c09e7632-79e7-4ffe-ab41-2e38a4ff944a" name="h2news.kr" url="http://h2news.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/h2news.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
