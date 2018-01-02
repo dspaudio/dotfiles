@@ -33,6 +33,78 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="1ecb739d-341e-4a71-b77c-5940a0776e37" name="mediaon_php56" url="http://demo56.mediaon.co.kr">
+        <fileTransfer host="121.78.127.126" port="1229" rootFolder="/home/demo56.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2ae73a4a-47fc-402b-9f45-ebdd54b526ec" name="ad.mediaon.co.kr" url="https://ad.mediaon.co.kr:30002">
+        <fileTransfer host="121.78.127.242" port="1229" rootFolder="/home/mediaon/ad.mediaon.co.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3062c14b-dca7-488d-b131-890dadd22faf" name="chuksannews.co.kr" url="http://chuksannews.co.kr">
+        <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/chuksannews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2b88b45d-7bd9-435d-a672-d4929710394a" name="tfnews.kr" url="http://tfnews.kr">
+        <fileTransfer host="121.78.127.48" port="1229" rootFolder="/home/tfnews2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0fdf25c7-4bc1-464a-9809-8a0ec4774cd4" name="kpoptimes.kr" url="http://kpoptimes.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/gangwon.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="358800be-e1eb-4f9b-aebd-b6e39f130e1f" name="sample11.mediaon.co.kr" url="http://sample11.mediaon.co.kr">
+        <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/sample11.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2aea6bf1-5fd1-4e4a-865b-03a22e21d8a5" name="kitimes.com" url="http://kitimes.com">
+        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/kitimes.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4a38fd79-91b6-4bf3-95ec-98435d382d0c" name="gyeseong1882.es.kr" url="http://gyeseong1882.es.kr">
+        <fileTransfer host="121.78.127.170" port="1229" rootFolder="/home/gyeseong/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c09e7632-79e7-4ffe-ab41-2e38a4ff944a" name="h2news.kr" url="http://h2news.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/h2news.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
