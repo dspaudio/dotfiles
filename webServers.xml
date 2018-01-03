@@ -105,6 +105,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="1102cfaf-0430-40b7-a2cc-326eb10f1a72" name="m-economynews.com" url="http://m-economynews.com">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/meconomynews2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
