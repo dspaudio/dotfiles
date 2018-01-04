@@ -9,5 +9,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.files" value="false" />
     <entry key="search.everywhere.symbols" value="false" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
