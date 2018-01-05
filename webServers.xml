@@ -113,6 +113,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="80dfb870-c927-4cc3-8e6a-ef9104a09ce8" name="cosinkorea.mediaon.co.kr" url="http://cosinkorea.mediaon.co.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/cosinkorea.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
