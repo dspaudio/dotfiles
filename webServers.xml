@@ -121,6 +121,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="38fca248-7888-4954-b496-ef10f208facf" name="dailygnews.mediaon.co.kr" url="http://dailygnews.mediaon.co.kr">
+        <fileTransfer host="dailygnews.mediaon.co.kr" port="1229" rootFolder="/home/dailygnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
