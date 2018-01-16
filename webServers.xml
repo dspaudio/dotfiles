@@ -137,6 +137,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="bbce86e0-929e-44d2-b51e-2b352f6aa5f1" name="swgv.or.kr" url="http://swgv.or.kr">
+        <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/suwoneng/dev.swgv.or.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
