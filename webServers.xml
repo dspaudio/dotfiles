@@ -41,7 +41,7 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
-      <webServer id="2ae73a4a-47fc-402b-9f45-ebdd54b526ec" name="ad.mediaon.co.kr" url="https://ad.mediaon.co.kr:30002">
+      <webServer id="2ae73a4a-47fc-402b-9f45-ebdd54b526ec" name="ad.mediaon.co.kr" url="https://ad.mediaon.co.kr">
         <fileTransfer host="121.78.127.242" port="1229" rootFolder="/home/mediaon/ad.mediaon.co.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -139,6 +139,14 @@
       </webServer>
       <webServer id="bbce86e0-929e-44d2-b51e-2b352f6aa5f1" name="swgv.or.kr" url="http://swgv.or.kr">
         <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/suwoneng/dev.swgv.or.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd8b50ec-8b18-42f8-91fb-80a063076a9f" name="www.mediaon.co.kr" url="https://www.mediaon.co.kr">
+        <fileTransfer host="121.78.127.242" port="1229" rootFolder="/home/mediaon/www.mediaon.co.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
