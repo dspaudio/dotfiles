@@ -153,6 +153,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="3a2670bb-f2e1-4fa6-b81f-b9558a83bde2" name="kotra2016.com" url="http://kotra2016.com">
+        <fileTransfer host="121.78.127.170" port="1229" rootFolder="/home/kotra/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
