@@ -161,6 +161,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="89243be3-6fcb-4fc6-aff5-05d04fc07112" name="dgureceo.com" url="http://dgureceo.com">
+        <fileTransfer host="121.78.127.246" port="1229" rootFolder="/home/dgureceo/dgureceo.pixweb.co.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
