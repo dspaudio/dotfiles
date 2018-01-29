@@ -169,6 +169,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="84ffc65f-f966-462b-b679-0ba06519c74f" name="farmnmarket.com" url="http://farmnmarket.com">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/farmnmarket.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
