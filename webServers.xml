@@ -185,6 +185,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dea253c2-8811-4779-b637-4fb24fec0d9d" name="foodtvnews.com" url="http://foodtvnews.com">
+        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/foodtv.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
