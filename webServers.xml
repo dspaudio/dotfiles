@@ -193,6 +193,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="810673cf-1255-4d8b-bf88-113b7ddd8904" name="kftaplus.com" url="http://kftaplus.com">
+        <fileTransfer host="210.97.143.41" port="1229" rootFolder="/home/plus.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
