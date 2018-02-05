@@ -201,6 +201,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="47095bf2-13ec-4c43-9c0d-04cc504a0caf" name="newsfarm.co.kr" url="http://newsfarm.co.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/newsfarms2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
