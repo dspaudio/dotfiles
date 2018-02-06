@@ -209,6 +209,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="0092dd6b-9925-4719-b41f-4c861836041a" name="dentalnews.or.kr" url="http://dentalnews.or.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/dentalnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
