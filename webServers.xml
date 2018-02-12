@@ -217,6 +217,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="e3efc6f9-df80-44f8-86b8-d6fd9887506b" name="koreaff.or.kr" url="http://koreaff.or.kr">
+        <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/kff.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
