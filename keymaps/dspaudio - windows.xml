@@ -127,7 +127,6 @@
   <action id="Laravel.ExtractPartialView" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="MethodDown" />
   <action id="MethodOverloadSwitchUp" />
