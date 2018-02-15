@@ -105,6 +105,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="ca399ecf-04ef-4b3d-a6f5-de8de4e8aa30" name="mediawatch.kr" url="http://mediawatch.kr">
+        <fileTransfer host="121.78.127.50" port="1229" rootFolder="/home/mediawatch2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
