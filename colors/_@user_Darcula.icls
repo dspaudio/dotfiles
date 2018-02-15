@@ -1,18 +1,20 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-12-13T09:01:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-29T11:04:50</property>
+    <property name="modified">2018-02-13T13:20:35</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="D2Coding" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_MERGED" value="ff5d38" />
     <option name="FILESTATUS_MODIFIED" value="bcd42a" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="bcd42a" />
