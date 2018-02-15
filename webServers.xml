@@ -41,7 +41,7 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
-      <webServer id="2ae73a4a-47fc-402b-9f45-ebdd54b526ec" name="ad.mediaon.co.kr" url="https://ad.mediaon.co.kr:30002">
+      <webServer id="2ae73a4a-47fc-402b-9f45-ebdd54b526ec" name="ad.mediaon.co.kr" url="https://ad.mediaon.co.kr">
         <fileTransfer host="121.78.127.242" port="1229" rootFolder="/home/mediaon/ad.mediaon.co.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
