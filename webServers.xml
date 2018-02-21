@@ -233,6 +233,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="abbee85d-608a-4b9d-80d9-7a4d6a92b317" name="inthenews.co.kr" url="http://inthenews.co.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/inthenews2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
