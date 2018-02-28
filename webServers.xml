@@ -241,6 +241,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="e8591616-0c55-4a41-a310-0bfbd45b70fa" name="psnews.co.kr" url="http://psnews.co.kr">
+        <fileTransfer host="121.78.127.86" port="1229" rootFolder="/home/edumission2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
