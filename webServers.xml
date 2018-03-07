@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ea09320a-2e16-41cc-b362-2971e2918c21" name="gg.sliedu.net" url="http://gg.sliedu.net">
-        <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/hosting_users/sliedu/www/sub_homepage/gyeonggi" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="1229" />
-        </fileTransfer>
-      </webServer>
       <webServer id="9aca955e-b54f-4bb9-adaf-9fa6358ab5f8" name="myongji.net" url="http://myongji.net">
         <fileTransfer host="121.78.127.181" port="1229" rootFolder="/home/myongji/www.myongji.net" accessType="SFTP">
           <advancedOptions>
