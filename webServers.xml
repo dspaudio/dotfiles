@@ -257,6 +257,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="4e313b86-b16d-413a-9ee7-efdc8b2ed1e1" name="kharn.mediaon.co.kr" url="http://kharn.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/kharn.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
