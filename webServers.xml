@@ -265,6 +265,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="37c76c14-d201-4639-b983-aa1a402a604d" name="kitimes.mediaon.co.kr" url="http://kitimes.mediaon.co.kr">
+        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/kitimes.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
