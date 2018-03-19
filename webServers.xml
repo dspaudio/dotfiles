@@ -281,6 +281,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="6c90c87e-2bc5-4cab-9f1b-fb47b222b224" name="hangyo.com" url="http://hangyo.com">
+        <fileTransfer host="210.97.143.41" port="1229" rootFolder="/home/hangyo.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
