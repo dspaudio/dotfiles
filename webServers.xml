@@ -297,6 +297,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="959627d0-5635-41ae-9d4e-2a28ec211b5c" name="gdnews.mediaon.co.kr" url="http://gdnews.mediaon.co.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/gdnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
