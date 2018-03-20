@@ -289,6 +289,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="f5ea4ebb-ef22-47c2-b565-75f577fa402e" name="goldstocknews.org" url="http://goldstocknews.org">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/goldstocknews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
