@@ -194,7 +194,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="dea253c2-8811-4779-b637-4fb24fec0d9d" name="foodtvnews.com" url="http://foodtvnews.com">
-        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/foodtv.mediaon.co.kr/www" accessType="SFTP">
+        <fileTransfer host="121.78.127.93" port="1229" rootFolder="/home/foodtv.mediaon.co.kr/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -273,7 +273,7 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
-      <webServer id="31369cf9-5919-4667-a19d-f545d34bd00d" name="gyeseong1882.es.kr" url="http://gyeseong1882.es.kr">
+      <webServer id="31369cf9-5919-4667-a19d-f545d34bd00d" name="gyeseong1882.es.kr (1)" url="http://gyeseong1882.es.kr">
         <fileTransfer host="121.78.127.170" port="1229" rootFolder="/home/gyeseong/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
