@@ -305,6 +305,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="0d726526-eda6-476f-8ee3-da620593b635" name="cncnews.mediaon.co.kr" url="http://cncnews.mediaon.co.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/cncnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
