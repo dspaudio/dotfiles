@@ -313,6 +313,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="dc61995c-7c0c-4a7f-ad52-eb33de119e5f" name="newsaili8888.mediaon.co.kr" url="http://newsaili8888.mediaon.co.kr">
+        <fileTransfer host="121.78.127.85" port="1229" rootFolder="/home/newsaili8888.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
