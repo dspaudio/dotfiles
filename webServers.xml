@@ -321,6 +321,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="e3f831ce-e6a7-4a76-9b22-80b98618645b" name="www.sliedu.net" url="http://www.sliedu.net">
+        <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/hosting_users/sliedu/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
