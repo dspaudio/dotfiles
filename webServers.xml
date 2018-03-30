@@ -329,6 +329,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="16c4d6a7-526c-48ee-8346-242a9991eb81" name="inews365.com" url="http://inews365.com">
+        <fileTransfer host="121.78.127.42" port="1229" rootFolder="/home/inews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
