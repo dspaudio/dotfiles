@@ -337,6 +337,14 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="984ab1d5-d7c1-4d95-ae5b-ab799af2e803" name="kangsamo.mediaon.co.kr" url="http://kangsamo.mediaon.co.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/kangsamo.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
