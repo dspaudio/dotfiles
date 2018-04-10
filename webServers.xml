@@ -345,6 +345,22 @@
           <option name="port" value="1229" />
         </fileTransfer>
       </webServer>
+      <webServer id="323909e5-6919-4e89-9d56-d40209a08771" name="gtr.mediaon.co.kr" url="http://gtr.mediaon.co.kr">
+        <fileTransfer host="121.78.127.70" port="1229" rootFolder="/home/gtr/gtr.mediaon.co.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c349360c-9e12-4896-992d-1e3ed55f921c" name="adexpo.mediaon.co.kr" url="http://master.mediaon.co.kr">
+        <fileTransfer host="121.78.127.70" port="1229" rootFolder="/home/adexpo/adexpo.mediaon.co.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
