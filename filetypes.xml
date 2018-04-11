@@ -1,8 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <removed_mapping ext="html" type="HTML" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping ext="html" type="PHP" />
       <mapping pattern="cb_namecheck" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
