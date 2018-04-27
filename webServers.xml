@@ -194,7 +194,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="dea253c2-8811-4779-b637-4fb24fec0d9d" name="foodtvnews.com" url="http://foodtvnews.com">
-        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/foodtv.mediaon.co.kr/www" accessType="SFTP">
+        <fileTransfer host="121.78.127.93" port="1229" rootFolder="/home/foodtv.mediaon.co.kr/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -227,6 +227,134 @@
       </webServer>
       <webServer id="e3efc6f9-df80-44f8-86b8-d6fd9887506b" name="koreaff.or.kr" url="http://koreaff.or.kr">
         <fileTransfer host="121.78.127.87" port="1229" rootFolder="/home/kff.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="abbee85d-608a-4b9d-80d9-7a4d6a92b317" name="inthenews.co.kr" url="http://inthenews.co.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/inthenews2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8591616-0c55-4a41-a310-0bfbd45b70fa" name="psnews.co.kr" url="http://psnews.co.kr">
+        <fileTransfer host="121.78.127.86" port="1229" rootFolder="/home/edumission2.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="41f012c0-9252-44d0-b7e6-08e8eba5023f" name="knda.sliedu.net" url="http://knda.sliedu.net">
+        <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/hosting_users/sliedu/www/sub_homepage/knda" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e313b86-b16d-413a-9ee7-efdc8b2ed1e1" name="kharn.mediaon.co.kr" url="http://kharn.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/kharn.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="37c76c14-d201-4639-b983-aa1a402a604d" name="kitimes.mediaon.co.kr" url="http://kitimes.mediaon.co.kr">
+        <fileTransfer host="121.78.127.84" port="1229" rootFolder="/home/kitimes.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="31369cf9-5919-4667-a19d-f545d34bd00d" name="gyeseong1882.es.kr (1)" url="http://gyeseong1882.es.kr">
+        <fileTransfer host="121.78.127.170" port="1229" rootFolder="/home/gyeseong/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6c90c87e-2bc5-4cab-9f1b-fb47b222b224" name="hangyo.com" url="http://hangyo.com">
+        <fileTransfer host="210.97.143.41" port="1229" rootFolder="/home/hangyo.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f5ea4ebb-ef22-47c2-b565-75f577fa402e" name="goldstocknews.org" url="http://goldstocknews.org">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/goldstocknews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="959627d0-5635-41ae-9d4e-2a28ec211b5c" name="gdnews.mediaon.co.kr" url="http://gdnews.mediaon.co.kr">
+        <fileTransfer host="121.78.127.89" port="1229" rootFolder="/home/gdnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d726526-eda6-476f-8ee3-da620593b635" name="cncnews.mediaon.co.kr" url="http://cncnews.mediaon.co.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/cncnews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dc61995c-7c0c-4a7f-ad52-eb33de119e5f" name="newsaili8888.mediaon.co.kr" url="http://newsaili8888.mediaon.co.kr">
+        <fileTransfer host="121.78.127.85" port="1229" rootFolder="/home/newsaili8888.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e3f831ce-e6a7-4a76-9b22-80b98618645b" name="www.sliedu.net" url="http://www.sliedu.net">
+        <fileTransfer host="121.78.127.173" port="1229" rootFolder="/home/hosting_users/sliedu/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="16c4d6a7-526c-48ee-8346-242a9991eb81" name="inews365.com" url="http://inews365.com">
+        <fileTransfer host="121.78.127.42" port="1229" rootFolder="/home/inews.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="984ab1d5-d7c1-4d95-ae5b-ab799af2e803" name="kangsamo.mediaon.co.kr" url="http://kangsamo.mediaon.co.kr">
+        <fileTransfer host="121.78.127.83" port="1229" rootFolder="/home/kangsamo.mediaon.co.kr/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="323909e5-6919-4e89-9d56-d40209a08771" name="gtr.mediaon.co.kr" url="http://gtr.mediaon.co.kr">
+        <fileTransfer host="121.78.127.70" port="1229" rootFolder="/home/gtr/gtr.mediaon.co.kr" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1229" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c349360c-9e12-4896-992d-1e3ed55f921c" name="adexpo.mediaon.co.kr" url="http://master.mediaon.co.kr">
+        <fileTransfer host="121.78.127.70" port="1229" rootFolder="/home/adexpo/adexpo.mediaon.co.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
