@@ -44,6 +44,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta a" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta c" />
   </action>
