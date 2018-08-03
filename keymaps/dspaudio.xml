@@ -78,10 +78,10 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta w" />
   </action>
   <action id="EditorCloneCaretAbove">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="EditorCloneCaretBelow">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift meta k" />
@@ -166,6 +166,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoNextError" />
+  <action id="GotoRelated" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
@@ -176,6 +177,12 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
