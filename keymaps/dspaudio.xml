@@ -121,6 +121,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta o" />
+  </action>
   <action id="GitExtender.UpdateAll">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta a" />
   </action>
