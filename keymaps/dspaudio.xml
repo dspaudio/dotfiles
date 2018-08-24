@@ -62,6 +62,10 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoRelated" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta k" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="MoveLineDown">
