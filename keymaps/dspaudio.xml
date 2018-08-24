@@ -2,11 +2,13 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta d" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
   </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta l" />
   </action>
@@ -31,6 +33,8 @@
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
@@ -53,6 +57,8 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -61,6 +67,36 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Go To Tab #1">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Go To Tab #10">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Go To Tab #2">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Go To Tab #3">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="Go To Tab #4">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="Go To Tab #5">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="Go To Tab #6">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="Go To Tab #7">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="Go To Tab #8">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="Go To Tab #9">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
