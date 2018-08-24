@@ -124,6 +124,9 @@
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
