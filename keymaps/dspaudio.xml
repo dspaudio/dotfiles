@@ -13,6 +13,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
@@ -46,7 +47,7 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EditorJoinLines">
-    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -62,6 +63,7 @@
   </action>
   <action id="GotoRelated" />
   <action id="IncrementWindowHeight" />
+  <action id="InsertLiveTemplate" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
@@ -70,6 +72,7 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextProjectWindow" />
   <action id="ParameterInfo" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
