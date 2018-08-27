@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -118,6 +121,7 @@
   <action id="MoveStatementUp" />
   <action id="NextProjectWindow" />
   <action id="ParameterInfo" />
+  <action id="QuickChangeScheme" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
