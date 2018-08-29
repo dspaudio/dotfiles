@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Edit">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta o" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
@@ -70,6 +73,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta n" />
   </action>
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="meta 1" />
