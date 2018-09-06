@@ -1,0 +1,20 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/axios-token-interceptor" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/bootstrap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/npm" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
