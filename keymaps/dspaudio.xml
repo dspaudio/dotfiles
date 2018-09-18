@@ -18,11 +18,17 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Edit">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta o" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Console.TableResult.CloneRow">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
@@ -68,6 +74,12 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta n" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta m" />
+  </action>
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -101,6 +113,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="GotoRelated" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
@@ -118,11 +134,15 @@
   <action id="MoveStatementUp" />
   <action id="NextProjectWindow" />
   <action id="ParameterInfo" />
+  <action id="QuickChangeScheme" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="RunJsbtTask">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta g" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
