@@ -127,6 +127,10 @@
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="RunJsbtTask">
+    <keyboard-shortcut first-keystroke="alt f11" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta g" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
