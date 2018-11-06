@@ -141,7 +141,7 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
   </action>
-  <action id="Vcs.Show.Shelf">
+  <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta l" />
   </action>
   <action id="Vcs.UpdateProject">
