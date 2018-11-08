@@ -16,6 +16,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta a" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject">
