@@ -1,9 +1,9 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-12-27T11:57:00</property>
+    <property name="created">2019-01-18T10:32:05</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-18T10:31:29</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-18T11:13:25</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
