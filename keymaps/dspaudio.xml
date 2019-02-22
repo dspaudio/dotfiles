@@ -145,6 +145,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="SplitSelectionIntoLines">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta p" />
