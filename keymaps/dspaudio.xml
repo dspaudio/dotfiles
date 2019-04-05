@@ -6,7 +6,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
   </action>
-  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta s" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
