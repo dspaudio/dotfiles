@@ -92,6 +92,12 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta h" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
+  </action>
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
