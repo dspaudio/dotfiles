@@ -98,6 +98,9 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
   </action>
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta v" />
+  </action>
   <action id="Go To Tab #1">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
