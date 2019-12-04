@@ -1,0 +1,10 @@
+<application>
+  <component name="DateTimeFormatter">
+    <option name="patterns">
+      <map>
+        <entry key="vcs.annotate" value="yyyy-MM-dd" />
+        <entry key="vcs.log" value="yyyy-MM-dd" />
+      </map>
+    </option>
+  </component>
+</application>
